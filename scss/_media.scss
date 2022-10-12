@@ -14,7 +14,6 @@
 
   .out {
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: repeat(10, 1fr);
   }
   .title {
     font-size: 16px;
@@ -65,6 +64,5 @@
   }
   .out {
     grid-template-columns: 100%;
-    grid-template-rows: repeat(9, 1fr);
   }
 }
