@@ -69,7 +69,7 @@ task_3();
 
 const task_5 = () => {
   const APIKEY = 'CFciMzfca4Y4bjB2xt9hok2opMX1e9xH';
-  const amount = 3;
+  const amount = 9;
   const button = document.querySelector('.task-5__button');
 
   const render = content => {
